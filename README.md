@@ -1,4 +1,4 @@
-# 🎻 Viola Fingering Generator - Edition 1.0
+# 🎻 Viola Fingering Generator - Edition 2.0
 
 An AI-powered viola fingering generation system using **complete Dyna-Q reinforcement learning algorithm**. Upload MusicXML files and get optimal fingering suggestions - **runs entirely in your browser!**
 
@@ -6,7 +6,7 @@ An AI-powered viola fingering generation system using **complete Dyna-Q reinforc
 [![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=next.js)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**🔗 [Live Demo](https://viola-fingering-generator-a01.vercel.app/)** | **📂 [GitHub Repository](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A01)**
+**🔗 [Live Demo](https://viola-fingering-generator-a02.vercel.app/)** | **📂 [GitHub Repository](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A02)**
 
 [English](#english) | [中文](#中文) | [日本語](#日本語)
 
@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 中文
 
-**🔗 [在线试用](https://viola-fingering-generator-a01.vercel.app/)** | **📂 [GitHub 仓库](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A01)**
+**🔗 [在线试用](https://viola-fingering-generator-a02.vercel.app/)** | **📂 [GitHub 仓库](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A02)**
 
 ### 🌟 功能特性
 
@@ -313,7 +313,7 @@ http://localhost:3000
 
 ## 日本語
 
-**🔗 [ライブデモ](https://viola-fingering-generator-a01.vercel.app/)** | **📂 [GitHub リポジトリ](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A01)**
+**🔗 [ライブデモ](https://viola-fingering-generator-a02.vercel.app/)** | **📂 [GitHub リポジトリ](https://github.com/JeffreyZhou798/Viola-Fingering-Generator-A02)**
 
 ### 🌟 機能
 
